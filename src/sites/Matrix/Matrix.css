@@ -1,0 +1,8 @@
+.matrix-container {
+    background-color: black;
+    color: green;
+    height: 100vh;
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
